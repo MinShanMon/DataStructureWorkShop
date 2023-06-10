@@ -1,0 +1,15 @@
+/Users/oscar/data structure/DataStructure/obj/Debug/net7.0/DataStructure.csproj.AssemblyReference.cache
+/Users/oscar/data structure/DataStructure/obj/Debug/net7.0/DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oscar/data structure/DataStructure/obj/Debug/net7.0/DataStructure.AssemblyInfoInputs.cache
+/Users/oscar/data structure/DataStructure/obj/Debug/net7.0/DataStructure.AssemblyInfo.cs
+/Users/oscar/data structure/DataStructure/obj/Debug/net7.0/DataStructure.csproj.CoreCompileInputs.cache
+/Users/oscar/data structure/DataStructure/bin/Debug/net7.0/DataStructure
+/Users/oscar/data structure/DataStructure/bin/Debug/net7.0/DataStructure.deps.json
+/Users/oscar/data structure/DataStructure/bin/Debug/net7.0/DataStructure.runtimeconfig.json
+/Users/oscar/data structure/DataStructure/bin/Debug/net7.0/DataStructure.dll
+/Users/oscar/data structure/DataStructure/bin/Debug/net7.0/DataStructure.pdb
+/Users/oscar/data structure/DataStructure/obj/Debug/net7.0/DataStructure.dll
+/Users/oscar/data structure/DataStructure/obj/Debug/net7.0/refint/DataStructure.dll
+/Users/oscar/data structure/DataStructure/obj/Debug/net7.0/DataStructure.pdb
+/Users/oscar/data structure/DataStructure/obj/Debug/net7.0/DataStructure.genruntimeconfig.cache
+/Users/oscar/data structure/DataStructure/obj/Debug/net7.0/ref/DataStructure.dll
