@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DataStructure.LList
+namespace LinkedList.LList
 {
 
   class LList

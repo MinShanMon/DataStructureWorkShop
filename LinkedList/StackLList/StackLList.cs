@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 
-namespace DataStructure.StackLList
+namespace LinkedList.DataStructure.StackLList
 {
     public class Node{
             public string Data { set; get; }
